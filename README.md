@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dinson Davis</h1>
 <h3 align="center">Self-taught MERN stack developer</h3> 
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dins2344&label=Profile%20views&color=0e75b6&style=flat" alt="dins2344" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dins2344" alt="dins2344" /></a> </p>
